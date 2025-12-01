@@ -289,6 +289,10 @@ margin: 0 12px;
 }
 /*Footer End*/
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 73f02be9117ac695373b7a3495004633b8eab1eb
 /* أجهزة التابلت (أصغر من 992px) */
 @media (max-width: 992px) {
   #home .home-content {
@@ -351,6 +355,7 @@ margin: 0 12px;
   }
 }
 
+<<<<<<< HEAD
 /* Login Page Styles */
 .login-container{
     display: flex;
@@ -437,4 +442,6 @@ margin: 0 12px;
         padding: 30px;
     }
 }
+=======
+>>>>>>> 73f02be9117ac695373b7a3495004633b8eab1eb
 
